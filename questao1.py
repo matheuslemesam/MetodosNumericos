@@ -81,3 +81,5 @@ if __name__ == "__main__":
         print("❌ O método não convergiu com os parâmetros fornecidos.")
     
     print("="*40)
+    
+    
